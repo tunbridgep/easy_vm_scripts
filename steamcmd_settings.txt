@@ -1,6 +1,0 @@
-//steamCMD settings
-@ShutdownOnFailedCommand 1
-@NoPromptForPassword 1
-@sSteamCmdForcePlatformType windows
-login sarge945
-//force_install_dir /media/paul/scratch/SteamLibrary/steamapps/Directory With Spaces
